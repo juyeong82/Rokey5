@@ -1,0 +1,1 @@
+print('vscode new file')
